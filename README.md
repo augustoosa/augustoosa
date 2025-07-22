@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Augusto 👋
 
-Sou estudante de **Computação** e apaixonado por tecnologia.  
-Atualmente estou aprendendo mais sobre **desenvolvimento de software, microcontroladores e sistemas embarcados**.  
+Sou estudante de **Engenharia de Computação na UTFPR**.
 Gosto de criar projetos que me desafiam e me fazem evoluir como programador.
 
 ---
@@ -22,10 +21,10 @@ Gosto de criar projetos que me desafiam e me fazem evoluir como programador.
 
 ---
 
-### 🌐 Vamos nos conectar!
+### 🌐 Minhas redes!
 <div>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/augusto-da-silva-de-sa-641987273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:augustoosilvaasaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
