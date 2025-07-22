@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Augusto 👋
 
-Sou estudante de **Engenharia de Computação na UTFPR**.
-Gosto de criar projetos que me desafiam e me fazem evoluir como programador.
+- Sou estudante de **Engenharia de Computação na UTFPR**.
+- Gosto de criar projetos que me desafiam e me fazem evoluir como programador.
 
 ---
 
@@ -12,6 +12,8 @@ Gosto de criar projetos que me desafiam e me fazem evoluir como programador.
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img alt="Jupyter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Visual Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
 ---
