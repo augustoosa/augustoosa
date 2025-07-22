@@ -11,5 +11,3 @@
   <img align="center" alt="Rafa-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358914917397249/852435089581688872/hi.gif">
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoosa&show_icons=true)
