@@ -19,15 +19,13 @@
 
 ---
 
+---
+
 ### 📊 Minhas estatísticas
 
 <p align="center">
-  <a href="https://github.com/augustoosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/augustoosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoosa&layout=donut&langs_count=8&theme=transparent" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoosa&layout=donut&langs_count=8&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 ---
