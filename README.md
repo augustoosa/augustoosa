@@ -21,14 +21,17 @@
 
 ---
 
-### 📊 Minhas estatísticas
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoosa&layout=donut&langs_count=8&theme=dark" alt="Linguagens mais usadas" />
-</p>
+### 📊 Minhas Estatísticas do GitHub
+
+| 📈 Resumo de Atividades | 🛠️ Linguagens Mais Usadas |
+| :---: | :---: |
+| <img height="180em" src="https://github-readme-stats-git-masterhstking-glow.vercel.app/api?username=augustoosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats-git-masterhstking-glow.vercel.app/api/top-langs/?username=augustoosa&layout=donut&langs_count=8&theme=tokyonight" /> |
 
 ---
+
+</div>
 
 ### 🌐 Minhas redes!
 
