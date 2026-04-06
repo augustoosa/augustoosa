@@ -18,15 +18,15 @@
 </div>
 
 ---
-
----
 <div align="center">
 
 ### 📊 Minhas Estatísticas do GitHub
 
-| 📈 Resumo de Atividades | 🛠️ Linguagens Mais Usadas |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats-git-masterstreak-stats.vercel.app/api?username=augustoosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats-git-masterstreak-stats.vercel.app/api/top-langs/?username=augustoosa&layout=compact&langs_count=8&theme=tokyonight" /> |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=augustoosa&theme=tokyonight&hide_border=false"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoosa&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
